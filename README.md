@@ -281,19 +281,6 @@ tokyo.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -399,7 +386,7 @@ for i, row in tokyo.iterrows():
     
 
 
-![png](Covid_19_Map_Tokyo_files/Covid_19_Map_Tokyo_27_1.png)
+![png](files/Covid_19_Map_Tokyo_27_1.png)
 
 
 次に日々の新規感染者数を表示することを考えましょう。
