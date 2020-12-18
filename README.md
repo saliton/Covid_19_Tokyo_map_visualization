@@ -421,7 +421,7 @@ for i, row in tokyo.iterrows():
 ```
 
 
-![png](Covid_19_Map_Tokyo_files/Covid_19_Map_Tokyo_31_0.png)
+![png](files/Covid_19_Map_Tokyo_31_0.png)
 
 
 一応できましたが、パラメータを設定して手動で再実行させるのはいまいちです。探してみるとipywidgetsというものがありました。以前はColabで使えなかったようですが、今は一部を除いて使えます。
