@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Covid_19_Tokyo_map_visualization/blob/master/Covid_19_Tokyo_map_visualization.ipynb)
+
 # 東京都の新型コロナウィルス患者の発生をインタラクティブな地図に視覚化
 
 [以前の記事](https://www.soliton-cyber.com/blog/extract-covid19-data-from-pdf-by-tokyo-metro)で東京都における新型ウィルスの患者の発生について市区町村別のデータを取得する具体例について書きました。その際に保存したデータを地図に視覚化してみましょう。
