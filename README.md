@@ -18,10 +18,10 @@ Google Colabで左にあるファイルメニューを使ってGoogle Driveを�
 
 
 ```Shell
-%cd /content/drive/My\ Drive/coronavirus
+%cd /content/drive/MyDrive/coronavirus
 ```
 
-    /content/drive/My Drive/coronavirus
+    /content/drive/MyDrive/coronavirus
     
 
 次に東京都の地図データを入手します。地図のデータ形式は[GeoJSON](https://ja.wikipedia.org/wiki/GeoJSON)がメジャーですが、これにはファイルサイズが大きいという欠点があります。一方、GeoJSONの冗長さを除いた形式がTopoJSONです。これらの相互変換プログラムがあることから、情報量は同じなようです。下記の地図データを配布しているサイトでも、ファイルの小さいTopoJSONの利用が推奨されていますので、そちらを取得します。
