@@ -44,7 +44,7 @@ Google Colabで左にあるファイルメニューを使ってGoogle Driveを�
 
 ```Python
 import geopandas as gpd
-tokyo = gpd.read_file('/content/drive/My Drive/coronavirus/tokyo.topojson')
+tokyo = gpd.read_file('/content/drive/MyDrive/coronavirus/tokyo.topojson')
 tokyo.plot()
 ```
 
