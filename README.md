@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Covid_19_Tokyo_map_visualization/blob/master/Covid_19_Tokyo_map_visualization.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Covid_19_Tokyo_map_visualization/blob/master/Covid_19_Tokyo_map_visualization.ipynb)
 
 # 東京都の新型コロナウィルス患者の発生をインタラクティブな地図に視覚化
 
